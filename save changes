@@ -1,0 +1,10 @@
+
+rrrrt "Added link to git docs"
+
+This reverts commit 798ff1f06249f7a2bb7b7c51b66f3448179b7583.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
